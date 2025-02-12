@@ -1,3 +1,3 @@
-# auto
+# Celebrities
 
 A new Flutter project.
